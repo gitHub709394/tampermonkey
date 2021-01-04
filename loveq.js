@@ -11,6 +11,7 @@
 // @grant        unsafeWindow
 // @license      MIT License
 // @require      https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+// @updateURL    https://github.com/gitHub709394/tampermonkey/blame/main/loveq.js
 // ==/UserScript==
 
 // 设置播放倍数
